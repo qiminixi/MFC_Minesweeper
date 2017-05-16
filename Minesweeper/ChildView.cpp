@@ -59,7 +59,7 @@ UINT MouseClick(LPVOID pParam)
 		if(g_bLBtnDown)
 		{
 			g_bLBtnDown=FALSE;
-			Sleep(100);
+			Sleep(500);
 			if(g_bLBtnDown)//如果一定时间内还单击了一次鼠标，判断为双击
 				g_bLBtnDown=FALSE;
 			else if(g_bRBtnDown)//左右键都点击了

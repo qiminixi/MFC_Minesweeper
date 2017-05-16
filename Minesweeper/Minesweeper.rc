@@ -119,6 +119,7 @@ BEGIN
     POPUP "帮助"
     BEGIN
         MENUITEM "关于扫雷...",                     ID_APP_ABOUT
+        MENUITEM "快速连续点击鼠标左右键翻开周围所有格子",         ID_32777
     END
 END
 

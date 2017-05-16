@@ -30,6 +30,8 @@
 #define ID_GAMESETTING                  32773
 #define ID_32774                        32774
 #define ID_RESUMEGAME                   32775
+#define ID_32776                        32776
+#define ID_32777                        32777
 #define ID_INDICATOR_MINES              59143
 #define ID_INDICATOR_NULL               59144
 #define ID_INDICATOR_TIMER              59145
@@ -39,7 +41,7 @@
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        145
-#define _APS_NEXT_COMMAND_VALUE         32776
+#define _APS_NEXT_COMMAND_VALUE         32778
 #define _APS_NEXT_CONTROL_VALUE         1003
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
